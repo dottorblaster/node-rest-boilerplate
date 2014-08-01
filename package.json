@@ -1,0 +1,14 @@
+{
+  "name": "node-rest-boilerplate",
+  "version": "0.0.1",
+  "description": "A tiny boilerplate for your REST server made with Node :)",
+  "main": "app.js",
+  "dependencies": {
+  	"restify": "*"
+  },
+  "scripts": {
+    "test": "node app"
+  },
+  "author": "Alessio 'Blaster' Biancalana",
+  "license": "MIT"
+}
